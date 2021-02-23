@@ -5,7 +5,7 @@ La idea sería lograr un sistema transparente, sostenible y soberano.
 
 **NOTAS PARA TENER EN CUENTA:**
 
--Libertad para elegir la edad de jubilación o retiro.
+-Libertad para elegir el sistema, la edad y la forma de jubilación o retiro.
 
 -Tasa de sustitución (¿Cuánto debería aportar para tener la jubilación que pretendo?)
 
@@ -13,10 +13,20 @@ La idea sería lograr un sistema transparente, sostenible y soberano.
 
 -Proyecciones según años de aporte.
 
+-Previsibilidad.
+
+-Seguridad jurídica. 
+
+-Transparencia en la administración de fondos.
+
+-Aporte libre, no obligatoriedad de contribuciones patronales. Mayor autonomía del trabajador.
+
 -Tiempos y condiciones para rescate.
 
 -Cambios en los aportes (para menor o mayor valor).
 
 -Distintas alternativas según los riesgos que se deseen asumir.
+
+-SOLIDARIDAD y BIEN COMÚN: quienes se integren a la DAO pueden decidir colaborar con un % determinado de sus aportes para brindar una prestación básica a quienes no tienen la posibilidad de pensar en el futuro por las urgencias del presente (definiendo criterios de asignación desde un inicio).
 
 -Ver relación con STABLE COINS para reducir volatilidad.
